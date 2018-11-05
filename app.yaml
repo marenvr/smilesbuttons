@@ -1,0 +1,5 @@
+runtime: python37
+env_variables:
+    CLOUDSQL_CONNECTION_NAME: smilesbuttons:europe-west3:smiles-db
+    CLOUDSQL_USER: root
+    CLOUDSQL_PASSWORD: RaspberryPi=)
